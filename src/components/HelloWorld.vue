@@ -5,33 +5,28 @@
     <h3>Upload a new video</h3>
     <ul>
       <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
-          target="_blank"
-          rel="noopener"
-          >add video page</a
+        <a href="add.html"> Add Video </a>
         >
       </li>
     </ul>
-    <h3>View all video urls stored</h3>
+    <h3>View all videos stored</h3>
     <ul>
       <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">view</a>
+        <a href="view.html">View Video</a>
+        >
       </li>
     </ul>
     <h3>Update a video</h3>
     <ul>
       <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >Update videos</a
+        <a href="update.html">Update videos</a>
         >
       </li>
     </ul>
     <h3>Delete a video</h3>
     <ul>
       <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >Delete a video</a
+        <a href="delete.html">Delete a video</a>
         >
       </li>
     </ul>
